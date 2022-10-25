@@ -1,2 +1,2 @@
 # flexbox-project-study
- A project with the intention of delving into flexbox
+ A project with the intention of developing in flexbox and its properties
